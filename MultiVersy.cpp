@@ -34,7 +34,9 @@ switch (in)
     case 'r':
     system("C:\\Windows\\System32\\shutdown /r");
     case 'h':
-    cout<<"Guide:";
+    cout<<"Guide: c - calculator";
+    cout<<"s - shutdown";
+    cout<<"r - restart"
 return 0;
 return 0;
 }
