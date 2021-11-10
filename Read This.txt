@@ -1,0 +1,2 @@
+This Project is a linker project which will link some of my applications with main app and resolve some issues
+This project is very simple and edits are fully allowed
