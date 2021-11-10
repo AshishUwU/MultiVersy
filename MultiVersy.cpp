@@ -36,7 +36,8 @@ switch (in)
     case 'h':
     cout<<"Guide: c - calculator";
     cout<<"s - shutdown";
-    cout<<"r - restart"
+    cout<<"r - restart";
+    cout<<"More Coming Soon (Music Player about to be added)
 return 0;
 return 0;
 }
